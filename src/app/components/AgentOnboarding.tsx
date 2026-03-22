@@ -402,6 +402,120 @@ export function AgentOnboarding() {
   const [typedText, setTypedText] = useState("");
   const [showContent, setShowContent] = useState(false);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const chatEndRef = useRef<HTMLDivElement>(null);
+  const latestUserMsgRef = useRef<HTMLDivElement>(null);
+  const [chatMessages, setChatMessages] = useState<{ role: "user" | "agent"; text: string }[]>([]);
+  const [isThinking, setIsThinking] = useState(false);
+  const [showThinking, setShowThinking] = useState(false);
+  const [followUpsDismissed, setFollowUpsDismissed] = useState(false);
+  const [scrambledText, setScrambledText] = useState("········");
+  const [visibleRange, setVisibleRange] = useState<[number, number]>([0, 0]);
+  const stoppingRef = useRef(false);
+  const pendingMessageRef = useRef<string | null>(null);
+
+  useEffect(() => {
+    if (isThinking) {
+      setShowThinking(true);
+      stoppingRef.current = false;
+    } else {
+      stoppingRef.current = true;
+    }
+  }, [isThinking]);
+
+  useEffect(() => {
+    if (!showThinking && pendingMessageRef.current) {
+      const msg = pendingMessageRef.current;
+      pendingMessageRef.current = null;
+      setChatMessages((prev) => [...prev, { role: "agent", text: msg }]);
+    }
+  }, [showThinking]);
+
+  useEffect(() => {
+    if (!showThinking) return;
+    const target = "Thinking";
+    const glyphs = "·.:·";
+    const len = target.length;
+    let visible = 0;
+    let head = 0;
+    let tail = 0;
+    let phase: "dots-in" | "wave" | "pause" | "dots-out" | "done" = "dots-in";
+    let loops = 0;
+    let pauseTicks = 0;
+    const maxLoops = 2;
+
+    setScrambledText("········");
+    setVisibleRange([0, 0]);
+
+    const interval = setInterval(() => {
+      if (phase === "dots-in") {
+        visible++;
+        setVisibleRange([0, visible]);
+        if (visible >= len) {
+          phase = "wave";
+        }
+      } else if (phase === "wave") {
+        if (head < len) {
+          head++;
+        } else {
+          tail++;
+        }
+
+        if (tail >= len) {
+          loops++;
+          if (loops >= maxLoops) {
+            phase = "dots-out";
+            visible = len;
+          } else {
+            phase = "pause";
+            pauseTicks = 0;
+          }
+        }
+      } else if (phase === "pause") {
+        pauseTicks++;
+        if (pauseTicks >= 6) {
+          phase = "wave";
+          head = 0;
+          tail = 0;
+        }
+      } else if (phase === "dots-out") {
+        tail++;
+        setVisibleRange([tail, len]);
+        if (tail >= len) {
+          clearInterval(interval);
+          setShowThinking(false);
+          return;
+        }
+      } else {
+        return;
+      }
+
+      let result = "";
+      for (let i = 0; i < len; i++) {
+        if (i < head && i >= tail) {
+          result += target[i];
+        } else {
+          result += glyphs[Math.floor(Math.random() * glyphs.length)];
+        }
+      }
+      setScrambledText(result);
+    }, 67);
+
+    return () => clearInterval(interval);
+  }, [showThinking]);
+
+  const sendMessage = useCallback((text: string) => {
+    const trimmed = text.trim();
+    if (!trimmed || isThinking) return;
+    setChatMessages((prev) => [...prev, { role: "user", text: trimmed }]);
+    setPromptValue("");
+    setFollowUpsDismissed(true);
+    setIsThinking(true);
+    setTimeout(() => latestUserMsgRef.current?.scrollIntoView({ behavior: "smooth", block: "start" }), 50);
+    setTimeout(() => {
+      pendingMessageRef.current = "Got it! I'll update my configuration based on your feedback. Let me know if there's anything else you'd like to adjust.";
+      setIsThinking(false);
+    }, 2500);
+  }, [isThinking]);
   const [rightPanelCollapsed, setRightPanelCollapsed] = useState(false);
   const [showFloatingCard, setShowFloatingCard] = useState(false);
   const [showShareMenu, setShowShareMenu] = useState(false);
@@ -409,12 +523,12 @@ export function AgentOnboarding() {
   const [copied, setCopied] = useState(false);
   const shareButtonRef = useRef<HTMLButtonElement>(null);
   const [expandedSections, setExpandedSections] = useState<Record<string, boolean>>({
-    triggers: false,
-    instructions: false,
+    triggers: true,
+    instructions: true,
     tools: false,
     knowledge: false,
-    skills: true,
-    model: true,
+    skills: false,
+    model: false,
   });
 
   const toggleSection = (key: string) =>
@@ -482,7 +596,7 @@ export function AgentOnboarding() {
       }}
     >
       {/* Main modal container */}
-      <div className="relative flex flex-col flex-1 w-full bg-[#F3F4F8] rounded-t-[16px] shadow-[0px_4px_8px_rgba(0,0,0,0.2)]">
+      <div className="relative flex flex-col flex-1 min-h-0 w-full bg-[#F3F4F8] rounded-t-[16px] shadow-[0px_4px_8px_rgba(0,0,0,0.2)]">
         {/* Header */}
         <div className="flex items-center justify-between shrink-0 px-[24px] py-[16px]">
           <div className="flex items-center gap-[8px]">
@@ -508,10 +622,10 @@ export function AgentOnboarding() {
         {/* Content area */}
         <div className="flex gap-[16px] flex-1 min-h-0 px-[16px]">
           {/* ─── Left: Chat Panel ─────────────────────────────────── */}
-          <div className="flex-1 flex flex-col min-w-0">
-            <div className="bg-white rounded-[16px] flex-1 flex flex-col justify-start items-center relative overflow-hidden">
+          <div className="flex-1 flex flex-col min-w-0 min-h-0">
+            <div className="bg-white rounded-[16px] flex-1 min-h-0 flex flex-col justify-start items-center relative overflow-hidden">
               {/* Top gradient fade */}
-              <div className="absolute top-[-1px] left-1/2 -translate-x-1/2 w-full h-[74px] bg-gradient-to-b from-white via-white/85 to-transparent z-10 pointer-events-none" />
+              <div className="absolute top-[-1px] left-1/2 -translate-x-1/2 w-full h-[32px] bg-gradient-to-b from-white to-transparent z-10 pointer-events-none" />
 
               {/* Floating mini agent card (visible when right panel collapsed) */}
               {rightPanelCollapsed && showFloatingCard && (
@@ -577,7 +691,7 @@ export function AgentOnboarding() {
               )}
 
               {/* Chat content */}
-              <div className="flex-1 overflow-y-auto px-[116px] pt-[80px] pb-[180px]">
+              <div className="flex-1 min-h-0 overflow-y-auto px-[116px] pt-[80px] pb-[75vh]">
                 <div className="flex flex-col gap-[16px] max-w-[669px]">
                   {/* Greeting */}
                   <h3 className="font-['Poppins'] text-[#323338] text-[18px] leading-[24px] tracking-[-0.005em]">
@@ -611,37 +725,86 @@ export function AgentOnboarding() {
                   </div>
 
                   {/* Follow-up buttons */}
-                  <div
-                    className="flex gap-[12px] transition-all duration-500 delay-200"
-                    style={{
-                      opacity: showContent ? 1 : 0,
-                      transform: showContent ? "translateY(0)" : "translateY(8px)",
-                    }}
-                  >
-                    <button className="bg-white h-[36px] relative rounded-[8px] shrink-0 cursor-pointer hover:bg-[#f5f6f8] transition-colors">
-                      <div className="flex gap-[8px] h-full items-center overflow-clip px-[12px] rounded-[inherit]">
-                        <EnterArrowIcon />
-                        <span className="font-['Figtree'] text-[#323338] text-[16px] leading-[22px] whitespace-nowrap">
-                          Yes, that's right
-                        </span>
+                  {!followUpsDismissed && (
+                    <div
+                      className="flex gap-[12px] transition-all duration-500 delay-200"
+                      style={{
+                        opacity: showContent ? 1 : 0,
+                        transform: showContent ? "translateY(0)" : "translateY(8px)",
+                      }}
+                    >
+                      <button
+                        className="bg-white h-[36px] relative rounded-[8px] shrink-0 cursor-pointer hover:bg-[#f5f6f8] transition-colors"
+                        onClick={() => sendMessage("Yes, that's right")}
+                      >
+                        <div className="flex gap-[8px] h-full items-center overflow-clip px-[12px] rounded-[inherit]">
+                          <EnterArrowIcon />
+                          <span className="font-['Figtree'] text-[#323338] text-[16px] leading-[22px] whitespace-nowrap">
+                            Yes, that's right
+                          </span>
+                        </div>
+                        <div aria-hidden="true" className="absolute border-[#d0d4e4] border-[0.5px] border-solid inset-[-0.5px] pointer-events-none rounded-[8.5px]" />
+                      </button>
+                      <button
+                        className="bg-white h-[36px] relative rounded-[8px] shrink-0 cursor-pointer hover:bg-[#f5f6f8] transition-colors"
+                        onClick={() => sendMessage("Make changes")}
+                      >
+                        <div className="flex gap-[8px] h-full items-center overflow-clip px-[12px] rounded-[inherit]">
+                          <EnterArrowIcon />
+                          <span className="font-['Figtree'] text-[#323338] text-[16px] leading-[22px] whitespace-nowrap">
+                            Make changes
+                          </span>
+                        </div>
+                        <div aria-hidden="true" className="absolute border-[#d0d4e4] border-[0.5px] border-solid inset-[-0.5px] pointer-events-none rounded-[8.5px]" />
+                      </button>
+                    </div>
+                  )}
+
+                  {/* Chat messages */}
+                  {chatMessages.map((msg, i) => {
+                    const isLastUser = msg.role === "user" && !chatMessages.slice(i + 1).some((m) => m.role === "user");
+                    return (
+                      <div
+                        key={i}
+                        ref={isLastUser ? latestUserMsgRef : undefined}
+                        className={`flex ${msg.role === "user" ? "justify-end" : "justify-start"}`}
+                      >
+                        <div
+                          className={`font-['Figtree'] text-[16px] leading-[22px] max-w-[85%] ${
+                            msg.role === "user"
+                              ? "bg-[#ECEDF5] text-[#323338] rounded-[12px] px-[20px] py-[10px]"
+                              : "text-[#323338]"
+                          }`}
+                        >
+                          {msg.text}
+                        </div>
                       </div>
-                      <div aria-hidden="true" className="absolute border-[#d0d4e4] border-[0.5px] border-solid inset-[-0.5px] pointer-events-none rounded-[8.5px]" />
-                    </button>
-                    <button className="bg-white h-[36px] relative rounded-[8px] shrink-0 cursor-pointer hover:bg-[#f5f6f8] transition-colors">
-                      <div className="flex gap-[8px] h-full items-center overflow-clip px-[12px] rounded-[inherit]">
-                        <EnterArrowIcon />
-                        <span className="font-['Figtree'] text-[#323338] text-[16px] leading-[22px] whitespace-nowrap">
-                          Make changes
-                        </span>
-                      </div>
-                      <div aria-hidden="true" className="absolute border-[#d0d4e4] border-[0.5px] border-solid inset-[-0.5px] pointer-events-none rounded-[8.5px]" />
-                    </button>
-                  </div>
+                    );
+                  })}
+
+                  {/* Thinking indicator */}
+                  {showThinking && (
+                    <div className="flex justify-start">
+                      <span className="font-['Figtree'] text-[16px] leading-[22px] text-[#676879]">
+                        {"Thinking".split("").map((realCh, i) => {
+                          const ch = scrambledText[i] ?? "·";
+                          const isDot = ch !== realCh;
+                          const active = i >= visibleRange[0] && i < visibleRange[1];
+                          return (
+                            <span key={i} className="relative inline-block">
+                              <span className="transition-opacity duration-200" style={{ opacity: !isDot && active ? 1 : 0 }}>{realCh}</span>
+                              <span className="absolute inset-0 flex items-center justify-center transition-opacity duration-200" style={{ opacity: isDot && active ? 1 : 0 }}>{isDot ? ch : "·"}</span>
+                            </span>
+                          );
+                        })}
+                      </span>
+                    </div>
+                  )}
+
+                  <div ref={chatEndRef} />
                 </div>
               </div>
 
-              {/* spacer for fixed prompt editor */}
-              <div className="shrink-0 h-[143px]" />
             </div>
           </div>
 
@@ -740,7 +903,7 @@ export function AgentOnboarding() {
                                   )}
                                 </div>
                                 <div className="flex flex-col px-[4px]">
-                                  <p className="font-['Figtree'] font-[600] text-[#1c1c1c] text-[18px] leading-[155%]">{agentData.name}</p>
+                                  <p className="font-['Figtree'] font-[500] text-[#1c1c1c] text-[18px] leading-[155%]">{agentData.name}</p>
                                   <p className="font-['Figtree'] font-[300] text-[#676879] text-[16px] leading-[155%] line-clamp-2">I specialize in analyzing customer feedback.</p>
                                 </div>
                               </div>
@@ -1312,7 +1475,7 @@ export function AgentOnboarding() {
 
       {/* ─── Fixed Prompt Editor (bottom) ───────────────────────── */}
       <div
-        className="fixed bottom-0 left-[48px] z-50 backdrop-blur-[40px] px-[20px] pb-[16px] rounded-t-[16px] transition-[right] duration-300 ease-in-out"
+        className="fixed bottom-0 left-[48px] z-50 px-[20px] pb-[16px] rounded-t-[16px] transition-[right] duration-300 ease-in-out"
         style={{ right: rightPanelCollapsed ? 48 : 48 + 437 + 16 }}
       >
         <div className="max-w-[700px] w-full mx-auto">
@@ -1320,13 +1483,18 @@ export function AgentOnboarding() {
             <div className="flex flex-col justify-between overflow-clip pb-[8px] pt-[12px] rounded-[inherit] min-h-[111px]">
               <div className="flex items-center px-[12px]">
                 <div className="flex items-center w-full">
-                  <div className="bg-[#323338] h-[18px] shrink-0 w-px" />
                   <textarea
                     ref={textareaRef}
                     value={promptValue}
                     onChange={(e) => setPromptValue(e.target.value)}
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter" && !e.shiftKey) {
+                        e.preventDefault();
+                        sendMessage(promptValue);
+                      }
+                    }}
                     placeholder="Describe what your agent should do"
-                    className="font-['Figtree'] text-[14px] leading-[20px] text-[#323338] placeholder:text-[#676879] resize-none border-none outline-none bg-transparent w-full min-h-[20px] max-h-[80px] ml-[4px]"
+                    className="font-['Figtree'] text-[15px] leading-[20px] text-[#323338] placeholder:text-[#676879] resize-none border-none outline-none bg-transparent w-full min-h-[20px] max-h-[80px] ml-[4px]"
                     rows={1}
                   />
                 </div>
@@ -1342,15 +1510,19 @@ export function AgentOnboarding() {
                   </div>
                 </div>
                 <div className="flex-1" />
-                <div className="bg-[#ecedf5] flex items-center justify-center max-h-[24px] max-w-[24px] rounded-[12px] size-[24px]">
+                <button
+                  className={`flex items-center justify-center max-h-[24px] max-w-[24px] rounded-[12px] size-[24px] transition-colors ${promptValue.trim() ? "bg-[#323338] cursor-pointer" : "bg-[#ecedf5] cursor-default"}`}
+                  onClick={() => sendMessage(promptValue)}
+                  disabled={!promptValue.trim()}
+                >
                   <div className="overflow-clip relative shrink-0 size-[16px]">
                     <div className="absolute inset-[11.25%_16.35%_10.54%_17.06%]">
                       <svg className="absolute block size-full" fill="none" preserveAspectRatio="none" viewBox="0 0 10.6538 12.5137">
-                        <path clipRule="evenodd" d={svgPaths.p25262000} fill="rgba(50,51,56,0.38)" fillRule="evenodd" />
+                        <path clipRule="evenodd" d={svgPaths.p25262000} fill={promptValue.trim() ? "white" : "rgba(50,51,56,0.38)"} fillRule="evenodd" />
                       </svg>
                     </div>
                   </div>
-                </div>
+                </button>
               </div>
             </div>
             <div aria-hidden="true" className="absolute border border-[#c3c6d4] border-solid inset-0 pointer-events-none rounded-[12px]" />
