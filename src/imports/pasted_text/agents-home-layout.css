@@ -1,0 +1,9554 @@
+/* Frame 2147240301 */
+
+position: relative;
+width: 1440px;
+height: 860px;
+left: 1009px;
+top: 3506px;
+
+
+
+/* Agents mini home */
+
+position: absolute;
+width: 1440px;
+height: 860px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, #ECEFF8, #ECEFF8), #121212;
+border-radius: 0px;
+
+
+/* Product_Logo-type */
+
+position: absolute;
+visibility: hidden;
+height: 27.07px;
+left: 5.02%;
+right: 82.21%;
+top: calc(50% - 27.07px/2 - 110.87px);
+
+
+
+/* Frame 2147226627 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+height: 860px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* .monday Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 8px 24px 8px 16px;
+gap: 8px;
+
+width: 1440px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1261155130 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 295px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Home */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 295px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Product Logo / Small
+
+<p><strong style="white-space: pre-wrap;">Product logos/small</strong></p>
+*/
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Product Logo / Large
+
+<p><strong style="white-space: pre-wrap;">Product logos/Large</strong></p>
+*/
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 15.62%;
+bottom: 15.62%;
+
+
+
+/* Union */
+
+position: absolute;
+left: 6.51%;
+right: 6.65%;
+top: 8.14%;
+bottom: 7.93%;
+
+background: #6161FF;
+
+
+/* monday work management */
+
+width: 255px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1261155163 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+margin: 0 auto;
+width: 496px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561552910 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 260px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Notifications */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 13.69px;
+height: 16px;
+left: 3.25px;
+top: 2.05px;
+
+background: #323338;
+
+
+/* Vector */
+
+position: absolute;
+left: 40%;
+right: 38.99%;
+top: 78.62%;
+bottom: 13.5%;
+
+/* Light Basics/Text/Asphalt_Grey */
+border: 1.5px solid #676879;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 14%;
+bottom: 78.38%;
+
+/* Light Basics/Text/Asphalt_Grey */
+border: 1.5px solid #676879;
+
+
+/* Vector */
+
+position: absolute;
+left: 20%;
+right: 19.06%;
+top: 21.62%;
+bottom: 25.06%;
+
+/* Light Basics/Text/Asphalt_Grey */
+border: 1.5px solid #676879;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Platform / Inbox
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Inbox</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Inbox</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Incoming</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Inbox } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 9.59%;
+right: 9.58%;
+top: 19.58%;
+bottom: 19.59%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon / Platform / Invite
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Invite</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Invite</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>User</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Add</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Invite } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10.25%;
+top: 10.25%;
+bottom: 10%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon / Platform / Apps
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> monday apps section</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>app</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>apps</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>apps marketplace</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>installed apps</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>puzzle</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>add</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Apps } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Icon / Platform / Search */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 11.56%;
+right: 11.56%;
+top: 11.87%;
+bottom: 11.25%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Icon / Platform / Help
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Help</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>help</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>question</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Help } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 30%;
+right: 27.5%;
+top: 10%;
+bottom: 12.5%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Divider */
+
+width: 22px;
+height: 0px;
+
+mix-blend-mode: multiply;
+border: 1px solid #C3C6D4;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* monday vibe new colored icon */
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Subtract */
+
+position: absolute;
+left: 5.02%;
+right: 5.04%;
+top: 10.26%;
+bottom: 9.74%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+box-sizing: border-box;
+
+display: none;
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* IconButton */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+mix-blend-mode: multiply;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Icon / AI / AI
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> AI</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>AI</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Toolbar</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Indication</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Columns</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { AI } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 12.8px;
+height: 12.8px;
+left: calc(50% - 12.8px/2 + 0px);
+top: calc(50% - 12.8px/2 + 0px);
+
+background: #323338;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Icon / Basic / Switcher
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Switching between products</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Switcher</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>SidePanel</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Product</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Platform</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Switcher } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Profile button */
+
+width: 62px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Company Logo Container */
+
+position: absolute;
+left: 0%;
+right: 25.81%;
+top: 0%;
+bottom: 0%;
+
+border-radius: 4px 0px 0px 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 46px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+opacity: 0.5;
+
+
+/* Product Logo / Small
+
+<p><strong style="white-space: pre-wrap;">Product logos/small</strong></p>
+*/
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 6px;
+top: 6px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 15.62%;
+right: 54.13%;
+top: 28.34%;
+bottom: 30.88%;
+
+background: #FB275D;
+
+
+/* Shape */
+
+position: absolute;
+left: 40.23%;
+right: 29.47%;
+top: 28.25%;
+bottom: 30.88%;
+
+background: #FFCB00;
+
+
+/* Oval */
+
+position: absolute;
+left: 64.81%;
+right: 15.62%;
+top: 49.03%;
+bottom: 30.88%;
+
+background: #00C875;
+
+
+/* Avatar
+
+<p><span style="white-space: pre-wrap;">Avatar is a graphical representation of a person through a profile picture, image, icon, or set of initials.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">שהשאשר</strong></b></p>
+
+➡️ Use to indicate the status of a user.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px/2 + 15px);
+top: calc(50% - 32px/2);
+
+border-radius: 100px;
+
+
+/* Avatar Container */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border: 1px solid #FFFFFF;
+
+
+/* Frame 2147226624 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12px;
+gap: 10px;
+
+width: 1440px;
+height: 812px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 2147226622 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1428px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 12px 0px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* WorkspacesPane */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 4px 0px 0px;
+
+width: 253px;
+height: 828px;
+
+background: linear-gradient(180deg, rgba(231, 244, 246, 0) 0%, rgba(236, 239, 248, 0.3) 100%), #FFFFFF;
+border-radius: 12px 0px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1561553621 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+gap: 8px;
+
+width: 249px;
+height: 665px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1561553637 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 233px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1261161322 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+
+width: 233px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 201px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Home
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Home</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Home</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Plate</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Home } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 12.43%;
+
+background: #676879;
+
+
+/* Normal */
+
+width: 173px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 169px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / Menu
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Menu</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Menu</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>3 Dots</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dots</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Menu } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 15%;
+right: 11.66%;
+top: 45%;
+bottom: 40%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 141px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1561553590 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561553576 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 4px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* IconButton
+
+➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / DropdownChevron right
+
+Use to indicate Dropdown direction right
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 35%;
+right: 15%;
+top: 25%;
+bottom: 45%;
+
+background: #676879;
+transform: matrix(0, -1, -1, 0, 0, 0);
+
+
+/* Frame 2147226605 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 4px;
+
+width: 233px;
+height: 164px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Favorites */
+
+width: 233px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1561553571 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 16px;
+
+position: absolute;
+width: 233px;
+height: 320px;
+left: 0px;
+top: 36px;
+
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Board
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Board</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Board } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 15%;
+bottom: 15%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Dashboard
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Dashboard</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dashboard</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Dashboard } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Dashboard
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Dashboard</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dashboard</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Dashboard } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Board
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Board</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Board } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 15%;
+bottom: 15%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Doc Private
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Private Doc</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Doc</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Document</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Private</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DocPrivate } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 16.25%;
+right: 0.09%;
+top: 9.75%;
+bottom: 0%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Doc Private
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Private Doc</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Doc</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Document</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Private</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DocPrivate } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 16.25%;
+right: 0.09%;
+top: 9.75%;
+bottom: 0%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Dashboard
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Dashboard</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dashboard</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Dashboard } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Board
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Board</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Board } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 15%;
+bottom: 15%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Home */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 12.43%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Home */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 12.43%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1561553615 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+gap: 10px;
+
+position: absolute;
+width: 233px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 209px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 2147226606 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 79px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Normal */
+
+width: 61px;
+height: 22px;
+
+/* Text3 (12px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / Dropdown Chevron Down
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Chevron Down Arrow</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Chevron</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Arrow</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Down</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DropdownChevronDown } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 14px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35%;
+bottom: 35%;
+
+background: #676879;
+
+
+/* Frame 1561553663 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 68px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561553590 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+display: none;
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1561553591 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+display: none;
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147226604 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+
+width: 233px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 201px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Colored / AI Colored
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Prominent AI entry point icon</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Colored</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Colored</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Boards</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>AI</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Colorful</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Colored</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Entry</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Points</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Pronounced</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Icon</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { AIColored } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Logo */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+
+
+/* Union */
+
+position: absolute;
+left: 0.04%;
+right: 37.3%;
+top: 37.2%;
+bottom: 0%;
+
+background: conic-gradient(from 100.5deg at 84.6% 16.57%, #6161FF -144.59deg, #FFD633 4.66deg, #9450FD 86.02deg, #4800FF 116.53deg, #03FAFA 142.41deg, #6161FF 215.41deg, #FFD633 364.66deg);
+
+
+/* Union */
+
+position: absolute;
+left: 36.91%;
+right: 0.43%;
+top: 0.04%;
+bottom: 37.16%;
+
+background: conic-gradient(from 137.77deg at 19.72% 78.57%, #FF81E4 -17.05deg, #03FAFA 13.74deg, #6161FF 178.79deg, #FFD633 252.02deg, #FF6B10 274.97deg, #FF81E4 297.13deg, #FF81E4 342.95deg, #03FAFA 373.74deg);
+
+
+/* Union */
+
+position: absolute;
+left: 37.55%;
+right: 0%;
+top: 36.96%;
+bottom: 0.02%;
+
+background: conic-gradient(from -23.88deg at 18.75% 20.55%, #FFD633 -12.64deg, #FF6B10 68.49deg, #FF82E4 87.27deg, #9450FD 158.25deg, #0074FD 203.18deg, #9450FD 251.21deg, #FFD633 347.36deg, #FF6B10 428.49deg);
+
+
+/* Union */
+
+position: absolute;
+left: 0%;
+right: 37.51%;
+top: 0%;
+bottom: 36.95%;
+
+background: conic-gradient(from -42.68deg at 79.81% 81.07%, #3AC9FF -53.3deg, #05CD59 22.55deg, #FFD633 58.23deg, #FFD633 78.09deg, #A190AD 142.44deg, #6161FF 180.67deg, #FF81E4 246.75deg, #03FAFA 267.69deg, #3AC9FF 306.7deg, #05CD59 382.55deg);
+
+
+/* Union */
+
+position: absolute;
+left: 0.04%;
+right: 37.65%;
+top: 37.2%;
+bottom: 0%;
+
+background: conic-gradient(from 100.5deg at 84.6% 16.57%, #6161FF -144.59deg, #FFD633 4.66deg, #9450FD 86.02deg, #4800FF 116.53deg, #03FAFA 142.41deg, #6161FF 215.41deg, #FFD633 364.66deg);
+
+
+/* Union */
+
+position: absolute;
+left: 36.7%;
+right: 1%;
+top: 0.04%;
+bottom: 37.16%;
+
+background: conic-gradient(from 137.77deg at 19.72% 78.57%, #FF81E4 -17.05deg, #03FAFA 13.74deg, #6161FF 178.79deg, #FFD633 252.02deg, #FF6B10 274.97deg, #FF81E4 297.13deg, #FF81E4 342.95deg, #03FAFA 373.74deg);
+
+
+/* Union */
+
+position: absolute;
+left: 37.34%;
+right: 0.56%;
+top: 36.96%;
+bottom: 0.02%;
+
+background: conic-gradient(from -23.88deg at 18.75% 20.55%, #FFD633 -12.64deg, #FF6B10 68.49deg, #FF82E4 87.27deg, #9450FD 158.25deg, #0074FD 203.18deg, #9450FD 251.21deg, #FFD633 347.36deg, #FF6B10 428.49deg);
+
+
+/* Union */
+
+position: absolute;
+left: 0%;
+right: 37.86%;
+top: 0%;
+bottom: 36.95%;
+
+background: conic-gradient(from -42.68deg at 79.81% 81.07%, #3AC9FF -53.3deg, #05CD59 22.55deg, #FFD633 58.23deg, #FFD633 78.09deg, #A190AD 142.44deg, #6161FF 180.67deg, #FF81E4 246.75deg, #03FAFA 267.69deg, #3AC9FF 306.7deg, #05CD59 382.55deg);
+
+
+/* Normal */
+
+width: 173px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 201px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Icon / Colored Vibe
+
+<p><strong style="white-space: pre-wrap;">Use for:</strong> monday vibe</p><p><br></p><p><strong style="white-space: pre-wrap;">Category:</strong> Colored<br><strong style="white-space: pre-wrap;">Tags:</strong> <code spellcheck="false" style="white-space: pre-wrap;">Colored</code>, <code spellcheck="false" style="white-space: pre-wrap;">AI</code>, <code spellcheck="false" style="white-space: pre-wrap;">Colorful</code>, <code spellcheck="false" style="white-space: pre-wrap;">Colored</code>, <code spellcheck="false" style="white-space: pre-wrap;">Entry</code>, <code spellcheck="false" style="white-space: pre-wrap;">Points</code>, <code spellcheck="false" style="white-space: pre-wrap;">Pronounced</code>, <code spellcheck="false" style="white-space: pre-wrap;">Icon , Vibe</code></p><p><br></p><p><strong style="white-space: pre-wrap;">Import for dev:</strong><br><i><em style="white-space: pre-wrap;">import { Vibe } from "@mondaydotcomorg/icons"</em></i></p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+height: 11.15px;
+left: 10%;
+right: 10%;
+top: calc(50% - 11.15px/2 + 0px);
+
+background: linear-gradient(116.28deg, #F0C020 0.35%, #FF9E52 30.28%, #FF74CD 51.7%, #FF92E8 73.33%);
+
+
+/* Normal */
+
+width: 173px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 201px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon workflow\
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> worfkflow builder icon</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>autopilot</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>automations</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>workflow</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>workflows</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Workflow } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+border-radius: 0px;
+
+
+/* Union */
+
+position: absolute;
+visibility: hidden;
+left: 7.55%;
+right: 7.55%;
+top: 13.1%;
+bottom: 11.96%;
+
+background: #676879;
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 5.1%;
+top: 15%;
+bottom: 10.06%;
+
+background: conic-gradient(from 184.45deg at 55.17% 65.61%, #00D0FF 0deg, #8181FF 20.28deg, #579BFC 149.98deg, #00D0FF 308.38deg, #00D0FF 360deg);
+
+
+/* Normal */
+
+width: 173px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+background: rgba(194, 213, 255, 0.4);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 201px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+border-radius: 0px;
+
+
+/* Union (Stroke) */
+
+position: absolute;
+width: 12.06px;
+height: 11.02px;
+left: calc(50% - 12.06px/2 - 0.37px);
+top: calc(50% - 11.02px/2 - 0.09px);
+
+border: 0.8px solid #676879;
+
+
+/* Union */
+
+position: absolute;
+width: 12.06px;
+height: 11.02px;
+left: 1.6px;
+top: 2.4px;
+
+/* Angular (2 paints) */
+background: conic-gradient(from 209.27deg at 57.93% 61.1%, #FF7E2E -65.31deg, #6161FF 11.52deg, #C097FE 92.11deg, #FEACFE 184.43deg, #FEACFE 215.37deg, #FDA900 247.13deg, #FF7E2E 294.69deg, #6161FF 371.52deg), conic-gradient(from 184.45deg at 55.17% 65.61%, #E6FF00 0deg, #00D0FF 20.28deg, #33DBDB 149.98deg, #33D58E 191.38deg, #33D58E 211.14deg, #E6FF00 308.38deg, #E6FF00 360deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 10%;
+right: 33.44%;
+top: 15%;
+bottom: 16.15%;
+
+background: conic-gradient(from 193.69deg at 31.71% 91.28%, #8181FF 0deg, #8181FF 56.38deg, #33DBDB 149.98deg, #33D58E 191.38deg, #FFD633 230.98deg, #FC527D 308.38deg, #8181FF 360deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 50.48%;
+right: 14.64%;
+top: 49.87%;
+bottom: 16.16%;
+
+background: conic-gradient(from 193.69deg at 31.71% 91.28%, #8181FF 0deg, #8181FF 56.38deg, #33DBDB 149.98deg, #33D58E 191.38deg, #FFD633 230.98deg, #FC527D 308.38deg, #8181FF 360deg);
+
+
+/* Normal */
+
+width: 173px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1561553676 */
+
+width: 233px;
+height: 561px;
+overflow-y: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1561553690 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 233px;
+height: 250px;
+left: 0px;
+top: 0px;
+
+
+
+/* Favorites */
+
+width: 233px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1561553571 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 16px;
+
+position: absolute;
+width: 233px;
+height: 320px;
+left: 0px;
+top: 36px;
+
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Board
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Board</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Board } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 15%;
+bottom: 15%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Dashboard
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Dashboard</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dashboard</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Dashboard } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Dashboard
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Dashboard</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dashboard</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Dashboard } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Board
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Board</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Board } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 15%;
+bottom: 15%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Doc Private
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Private Doc</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Doc</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Document</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Private</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DocPrivate } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 16.25%;
+right: 0.09%;
+top: 9.75%;
+bottom: 0%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Doc Private
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Private Doc</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Doc</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Document</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Private</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DocPrivate } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 16.25%;
+right: 0.09%;
+top: 9.75%;
+bottom: 0%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Dashboard
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Dashboard</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dashboard</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Dashboard } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Board
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Board</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Board</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Board } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 15%;
+bottom: 15%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Home */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 12.43%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+width: 201px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 185px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Home */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 12.43%;
+
+background: #98999A;
+
+
+/* Normal */
+
+width: 157px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1561553615 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+gap: 10px;
+
+position: absolute;
+width: 233px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 209px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 2147226606 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 79px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Normal */
+
+width: 61px;
+height: 22px;
+
+/* Text3 (12px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / Dropdown Chevron Right
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Chevron Right Arrow</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Chevron</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Arrow</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Right</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DropdownChevronRight } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 14px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 35%;
+right: 35%;
+top: 25%;
+bottom: 25%;
+
+background: #676879;
+
+
+/* Frame 1561553663 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 68px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561553590 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+display: none;
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1561553591 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+display: none;
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561553675 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 233px;
+height: 210px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 1561553692 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 4px;
+gap: 4px;
+
+width: 233px;
+height: 72px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1561553616 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px;
+gap: 10px;
+
+width: 233px;
+height: 32px;
+overflow-y: scroll;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 0px 0px 8px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 209px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Normal */
+
+width: 129px;
+height: 22px;
+
+/* Text3 (12px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1561553663 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 68px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561553590 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1561553576 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 4px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* IconButton
+
+➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Search
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Search</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Search</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Find</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Magnifying Glass</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Search } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 11.56%;
+right: 11.55%;
+top: 11.87%;
+bottom: 11.25%;
+
+background: #676879;
+
+
+/* Frame 1561553591 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1561553576 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 4px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* IconButton
+
+➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / Menu
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Menu</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Menu</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>3 Dots</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dots</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Menu } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 15%;
+right: 11.66%;
+top: 45%;
+bottom: 40%;
+
+background: #676879;
+
+
+/* Frame 1561553570 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 233px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1261161329 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 8px;
+gap: 4px;
+
+width: 233px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* favorites tab */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px 8px 4px 6px;
+gap: 8px;
+
+width: 181px;
+height: 32px;
+
+border: 1px solid #D0D4E4;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 143px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* IconButton
+
+➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 20px;
+height: 20px;
+
+background: #4ECCC6;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Colored / Budget Colored
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> BudgetColored</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Colored</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Colored</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Boards</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Columns</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Budget</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Calculactive</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Money</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Dollar</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Cash</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { BudgetColored } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 14px;
+height: 14px;
+
+background: #4ECCC6;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 11px;
+height: 11px;
+left: calc(50% - 11px/2);
+top: calc(50% - 11px/2);
+
+background: #FFFFFF;
+
+
+/* Normal */
+
+width: 113px;
+height: 22px;
+
+/* Text2 (14px)/Bold */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Right Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Basic / Dropdown Chevron Down
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Chevron Down Arrow</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Chevron</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Arrow</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Down</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DropdownChevronDown } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 35%;
+bottom: 35%;
+
+background: #676879;
+
+
+/* IconButton
+
+➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 6px 8px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+background: #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Basic / Add
+
+Use as add icon on big elements or lists
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+width: 15.5px;
+height: 15.5px;
+left: 2.25px;
+top: 2.25px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 15%;
+right: 15%;
+top: 50%;
+bottom: 50%;
+
+/* Light Basics/Text/Asphalt_Grey */
+border: 1.5px solid #676879;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 50%;
+top: 15%;
+bottom: 15%;
+
+/* Light Basics/Text/Asphalt_Grey */
+border: 1.5px solid #676879;
+
+
+/* Frame 1561553693 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 6px 8px 0px;
+
+width: 245px;
+height: 134px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 193px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Portfolio
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Portfolio</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Portfolio</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>ProjectPortfolio</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Portfolio } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 12.5%;
+bottom: 12.51%;
+
+background: #676879;
+
+
+/* Normal */
+
+width: 165px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 193px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / Dropdown Chevron Right
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Chevron Right Arrow</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Chevron</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Arrow</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Right</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { DropdownChevronRight } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 35%;
+right: 35%;
+top: 25%;
+bottom: 25%;
+
+background: #676879;
+
+
+/* Normal */
+
+width: 165px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 8px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+background: #CCE5FF;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 13;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 14;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 15;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 16;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 17;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 18;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 19;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+display: none;
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 20;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1561554757 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 0px 0px 12px;
+
+width: 229px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 21;
+flex-grow: 0;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+width: 213px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 189px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Project
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Project icon</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Project</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>ProjectPortfolio</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Project } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 12.5%;
+bottom: 12.51%;
+
+background: #676879;
+
+
+/* Normal */
+
+width: 161px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Tool item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 5px 12px;
+gap: 8px;
+
+width: 217px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 193px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Left icon */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Project
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Project icon</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Project</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>ProjectPortfolio</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Project } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 3px;
+
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 12.5%;
+bottom: 12.51%;
+
+background: #676879;
+
+
+/* Normal */
+
+width: 165px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* rightthingy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1175px;
+height: 812px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Boardview */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 1175px;
+height: 812px;
+
+background: #FFFFFF;
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #D0D4E4;
+border-radius: 12px 0px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* rightthingy */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1175px;
+height: 812px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Component 6 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 16px 8px;
+gap: 8px;
+
+width: 48px;
+height: 812px;
+
+background: #FFFFFF;
+border-radius: 12px 0px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* minimize */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+border-radius: 4px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Lines
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Lines</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Lines</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Rows</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Lines } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 12.25%;
+right: 10.25%;
+top: 21.25%;
+bottom: 21.25%;
+
+background: #676879;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* chats list */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 8px 0px 0px;
+gap: 24px;
+
+display: none;
+width: 40px;
+height: 216px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147226618 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 72px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* new */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+isolation: isolate;
+
+width: 32px;
+height: 32px;
+
+background: rgba(103, 104, 121, 0.1);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.34%;
+right: 12.84%;
+top: 12.84%;
+bottom: 13.34%;
+
+background: #323338;
+
+
+/* .Tooltip - New Vibe app */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* new */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+isolation: isolate;
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Workspace</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Workspace</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Grid</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Workspace } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 14.06%;
+right: 14.06%;
+top: 14.11%;
+bottom: 14.01%;
+
+background: #323338;
+
+
+/* .Tooltip - My apps */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* new */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Spacer */
+
+width: 32px;
+height: 580px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* bottom */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 72px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Lib
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 32px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* settings button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+opacity: 0;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Platform / Custom
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Custom categoty icon</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>custom</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>recipe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>automations</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>dynamic</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>builder</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Custom } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10.16%;
+right: 10.16%;
+top: 10.16%;
+bottom: 10.16%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Feedback button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Icon / Platform / Feedback
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Feedback</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Feedback</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Feedback } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Context */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 84px 72px;
+gap: 46px;
+isolation: isolate;
+
+width: 1127px;
+height: 812px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ellipse 17681 */
+
+position: absolute;
+width: 1168.45px;
+height: 196.82px;
+left: calc(50% - 1168.45px/2 - 5.23px);
+bottom: 143.45px;
+
+background: linear-gradient(90deg, #A8FCFE 0%, #CDC0FE 100%);
+opacity: 0;
+filter: blur(250px);
+transform: rotate(15deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Ellipse 8 */
+
+position: absolute;
+width: 1574px;
+height: 194px;
+left: 12px;
+top: 1665px;
+
+background: linear-gradient(90deg, rgba(4, 247, 251, 0.1) 0%, rgba(0, 116, 253, 0.1) 47.99%, rgba(148, 80, 253, 0.1) 100%);
+filter: blur(99px);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 7 */
+
+position: absolute;
+width: 1710px;
+height: 491px;
+left: 0px;
+top: 1016px;
+
+background: linear-gradient(90deg, rgba(4, 247, 251, 0.1) 0%, rgba(0, 116, 253, 0.1) 47.99%, rgba(148, 80, 253, 0.1) 100%);
+filter: blur(99px);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 2147238984 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 32px;
+
+width: 547px;
+height: 200px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Design your team’s next teammate */
+
+width: 419px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+/* identical to box height, or 24px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.005em;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Prompt box */
+
+width: 547px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Gradient */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+filter: blur(8px);
+border-radius: 16px;
+
+
+/* Prompt box field */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 16px;
+gap: 12px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+border-radius: 16px;
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 24px 8px 14px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 200px;
+max-width: 200px;
+height: 58px;
+
+background: #F6F7FB;
+border: 1px solid #D0D4E4;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+margin: 0 auto;
+display: none;
+width: 58px;
+height: 58px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Variable prompts */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+margin: 0 auto;
+display: none;
+width: 760px;
+min-width: 760px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2147239713 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 3px;
+
+margin: 0 auto;
+width: 327px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Cursor */
+
+width: 6px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* | */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+
+/* Prompt text */
+
+width: 318px;
+height: 22px;
+
+/* Text1 (16px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+margin: 0 auto;
+width: 515px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left actions */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147226772 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 24px;
+max-width: 24px;
+height: 24px;
+max-height: 24px;
+
+background: #F6F7FB;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Basic / Add
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Add</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Add</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Plus</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Add } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 11.25%;
+right: 11.25%;
+top: 11.25%;
+bottom: 11.25%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Low emphasis button
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+gap: 4px;
+
+display: none;
+width: 106px;
+height: 28px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Prompt actions */
+
+width: 380px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️ High emphasis button on positive background
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+width: 87px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+background: rgba(50, 51, 56, 0.38);
+opacity: 0.5;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 71px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #ECEDF5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147238978 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 32px 0px 0px;
+gap: 25px;
+
+width: 983px;
+height: 420.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Frame 2147238979 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 962px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Agent suggestions tailored to your */
+
+width: 273px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+letter-spacing: -0.005em;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147226468 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 21px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Instruction text */
+
+width: 21px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+letter-spacing: -0.005em;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 80367 */
+
+width: 21px;
+height: 0px;
+
+border: 1.05px solid #323338;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* team at */
+
+width: 64px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+letter-spacing: -0.005em;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2147226468 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 2px;
+
+width: 107px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Instruction text */
+
+width: 107px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+letter-spacing: -0.005em;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 80367 */
+
+width: 107px;
+height: 0px;
+
+border: 1.05px solid #323338;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147239688 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 983px;
+height: 345.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 32px 8px 8px;
+gap: 20px;
+isolation: isolate;
+
+width: 483.5px;
+min-width: 330px;
+height: 164.57px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: -0.5px;
+top: 0px;
+bottom: -0.43px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 104px;
+height: 148.57px;
+
+background: #D6E2F6;
+border-radius: 14px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 132px;
+height: 158px;
+left: calc(50% - 132px/2 - 3px);
+bottom: -14.43px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 319.5px;
+height: 148.57px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 319.5px;
+height: 66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Elena */
+
+width: 319.5px;
+height: 14px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+letter-spacing: 0.01em;
+
+color: rgba(50, 51, 56, 0.38);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 319.5px;
+height: 44px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 155%;
+/* or 22px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 107px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 32px 8px 8px;
+gap: 20px;
+isolation: isolate;
+
+width: 483.5px;
+min-width: 330px;
+height: 164.57px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: -0.5px;
+top: 0px;
+bottom: -0.43px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 104px;
+height: 148.57px;
+
+background: #D6E2F6;
+border-radius: 14px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 178.32px;
+height: 236.22px;
+left: calc(50% - 178.32px/2 + 1.83px);
+top: 15.68px;
+
+background: url(23123123.png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 319.5px;
+height: 148.57px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 319.5px;
+height: 66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ron */
+
+width: 319.5px;
+height: 14px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+letter-spacing: 0.01em;
+
+color: rgba(50, 51, 56, 0.38);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 319.5px;
+height: 44px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 155%;
+/* or 22px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 107px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 32px 8px 8px;
+gap: 20px;
+isolation: isolate;
+
+width: 483.5px;
+min-width: 330px;
+height: 164.57px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: -0.5px;
+top: 0px;
+bottom: -0.43px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 104px;
+height: 148.57px;
+
+background: #D6E2F6;
+border-radius: 14px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 170.43px;
+height: 225.77px;
+left: -45.47px;
+top: 10.77px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 319.5px;
+height: 148.57px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 319.5px;
+height: 66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Emma */
+
+width: 319.5px;
+height: 14px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+letter-spacing: 0.01em;
+
+color: rgba(50, 51, 56, 0.38);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 319.5px;
+height: 44px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 155%;
+/* or 22px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 107px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 32px 8px 8px;
+gap: 20px;
+isolation: isolate;
+
+width: 483.5px;
+min-width: 330px;
+height: 164.57px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -1px;
+top: 0px;
+bottom: -0.43px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 104px;
+height: 148.57px;
+
+background: #D6E2F6;
+border-radius: 14px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 203.53px;
+height: 294.23px;
+left: calc(50% - 203.53px/2 - 0.26px);
+top: 7.11px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 319.5px;
+height: 148.57px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 319.5px;
+height: 66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dani */
+
+width: 319.5px;
+height: 14px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+letter-spacing: 0.01em;
+
+color: rgba(50, 51, 56, 0.38);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 319.5px;
+height: 44px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 155%;
+/* or 22px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title */
+
+width: 107px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147238985 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 25px;
+
+width: 983px;
+height: 358.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 2147238979 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 8px;
+gap: 5px;
+
+width: 983px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Explore more agents */
+
+width: 163px;
+height: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+letter-spacing: -0.005em;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147239688 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 983px;
+height: 317.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 20px;
+isolation: isolate;
+
+width: 317px;
+min-width: 310px;
+height: 150.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #B584FF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 117.99px;
+height: 156.3px;
+left: -31.48px;
+top: 7.45px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 177px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Emma */
+
+width: 177px;
+height: 28px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 177px;
+height: 50px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 155%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 20px;
+isolation: isolate;
+
+width: 317px;
+min-width: 310px;
+height: 150.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #00BA5F;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 127px;
+height: 226px;
+left: calc(50% - 127px/2 + 5.5px);
+top: calc(50% - 226px/2 + 69.71px);
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 177px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dani */
+
+width: 177px;
+height: 28px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 177px;
+height: 50px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 155%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 20px;
+isolation: isolate;
+
+width: 317px;
+min-width: 310px;
+height: 150.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #53D6F3;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 123.45px;
+height: 163.54px;
+left: calc(50% - 123.45px/2 + 1.27px);
+top: 10.85px;
+
+background: url(23123123.png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 177px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Ron */
+
+width: 177px;
+height: 28px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 177px;
+height: 50px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 155%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 20px;
+isolation: isolate;
+
+width: 317px;
+min-width: 310px;
+height: 150.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #D6E2F6;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 88.27px;
+height: 156.88px;
+left: calc(50% - 88.27px/2 - 0.47px);
+top: calc(50% - 156.88px/2 + 34.21px);
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 177px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dani */
+
+width: 177px;
+height: 28px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 177px;
+height: 50px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 155%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 20px;
+isolation: isolate;
+
+width: 317px;
+min-width: 310px;
+height: 150.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #FF6B10;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 102.9px;
+height: 174px;
+left: calc(50% - 102.9px/2 - 0.42px);
+top: calc(50% - 174px/2 + 31.71px);
+
+background: url(bg_removal [Background removed].png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 177px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dani */
+
+width: 177px;
+height: 28px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 177px;
+height: 50px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 155%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 24px;
+gap: 20px;
+isolation: isolate;
+
+width: 317px;
+min-width: 310px;
+height: 150.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 1;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #F974BC;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 91.38px;
+height: 109.38px;
+left: calc(50% - 91.38px/2 - 2.08px);
+bottom: -9.99px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 177px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 177px;
+height: 86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Elena */
+
+width: 177px;
+height: 28px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 155%;
+/* identical to box height, or 28px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 177px;
+height: 50px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 155%;
+/* or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Low emphasis button
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+position: absolute;
+width: 160px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+right: 20px;
+top: 20px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* Icon / Basic / Add Small
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Add Small</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Add</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Plus</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { AddSmall } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 26.25%;
+right: 26.25%;
+top: 26.25%;
+bottom: 26.25%;
+
+background: #323338;
+
+
+/* Title */
+
+width: 116px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;

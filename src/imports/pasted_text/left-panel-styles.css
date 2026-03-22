@@ -1,0 +1,2145 @@
+/* Left panel */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px;
+gap: 8px;
+
+position: relative;
+width: 256px;
+height: 809px;
+
+border-right: 0.5px solid #D0D4E4;
+border-radius: 12px 0px 0px 0px;
+
+
+/* Frame 2147226623 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 224px;
+height: 697px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* minimize */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 224px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Lines
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Lines</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Lines</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Rows</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Lines } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10.25%;
+right: 12.25%;
+top: 21.25%;
+bottom: 21.25%;
+
+background: #676879;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 🔴 [DEPRECATED] List item
+
+<div class="ql-code-block-container" spellcheck="false"><div class="ql-code-block">Deprecated: Jan 8th 2026</div><div class="ql-code-block">New version: <a href="https://www.figma.com/design/3NyKcvn6WjdUGKLPiWo3pL/Vibe-design-system?node-id=92400-10494&amp;t=dsxxoSVf0uPU5Axj-4" rel="noreferrer noopener nofollow ugc" target="_blank">List</a></div><div class="ql-code-block">Reason: New list item component</div></div><p><br></p><div class="ql-code-block-container" spellcheck="false"><div class="ql-code-block">Tips:</div><div class="ql-code-block">• Use the Restore Component button to restore missing or removed components.</div><div class="ql-code-block"></div><div class="ql-code-block">For any questions reach out to the Vibe design system</div></div>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 224px;
+height: 32px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Auto-added frame */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / New Chat
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Initiate new AI chat experience</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Chat</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>AI</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>New</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Experience</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Communication</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Interaction</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Message</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { NewChat } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.57%;
+right: 7.59%;
+top: 6.25%;
+bottom: 11.25%;
+
+background: #676879;
+
+
+/* Text */
+
+width: 180px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Label
+
+<p><span style="white-space: pre-wrap;">➡️ A label indicates the status of an item. It is not clickable.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Label will always appear in context next to the item it classifies.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךשנקך</span></p>
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+display: none;
+width: 50px;
+height: 24px;
+
+border: 1px solid #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 🔴 [DEPRECATED] List item
+
+<div class="ql-code-block-container" spellcheck="false"><div class="ql-code-block">Deprecated: Jan 8th 2026</div><div class="ql-code-block">New version: <a href="https://www.figma.com/design/3NyKcvn6WjdUGKLPiWo3pL/Vibe-design-system?node-id=92400-10494&amp;t=dsxxoSVf0uPU5Axj-4" rel="noreferrer noopener nofollow ugc" target="_blank">List</a></div><div class="ql-code-block">Reason: New list item component</div></div><p><br></p><div class="ql-code-block-container" spellcheck="false"><div class="ql-code-block">Tips:</div><div class="ql-code-block">• Use the Restore Component button to restore missing or removed components.</div><div class="ql-code-block"></div><div class="ql-code-block">For any questions reach out to the Vibe design system</div></div>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 224px;
+height: 32px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Auto-added frame */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Person Round
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Person round</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>person</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>user</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { PersonRound } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10.25%;
+right: 10.25%;
+top: 10.25%;
+bottom: 10.25%;
+
+background: #676879;
+
+
+/* Text */
+
+width: 180px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Label
+
+<p><span style="white-space: pre-wrap;">➡️ A label indicates the status of an item. It is not clickable.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Label will always appear in context next to the item it classifies.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךשנקך</span></p>
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+display: none;
+width: 50px;
+height: 24px;
+
+border: 1px solid #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 🔴 [DEPRECATED] List item
+
+<div class="ql-code-block-container" spellcheck="false"><div class="ql-code-block">Deprecated: Jan 8th 2026</div><div class="ql-code-block">New version: <a href="https://www.figma.com/design/3NyKcvn6WjdUGKLPiWo3pL/Vibe-design-system?node-id=92400-10494&amp;t=dsxxoSVf0uPU5Axj-4" rel="noreferrer noopener nofollow ugc" target="_blank">List</a></div><div class="ql-code-block">Reason: New list item component</div></div><p><br></p><div class="ql-code-block-container" spellcheck="false"><div class="ql-code-block">Tips:</div><div class="ql-code-block">• Use the Restore Component button to restore missing or removed components.</div><div class="ql-code-block"></div><div class="ql-code-block">For any questions reach out to the Vibe design system</div></div>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 224px;
+height: 32px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Auto-added frame */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon / Platform / Work
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> work</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Work</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>ProjectPortfolio</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Suitcase</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Business</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Sales Materials</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Platform</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Work } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 11.25%;
+right: 10.83%;
+top: 16.25%;
+bottom: 11.25%;
+
+background: #676879;
+
+
+/* Text */
+
+width: 180px;
+height: 22px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Label
+
+<p><span style="white-space: pre-wrap;">➡️ A label indicates the status of an item. It is not clickable.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Label will always appear in context next to the item it classifies.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךשנקך</span></p>
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+display: none;
+width: 50px;
+height: 24px;
+
+border: 1px solid #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2147238744 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px 0px;
+gap: 4px;
+
+width: 224px;
+height: 196px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Heading 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 8px 0px 8px 8px;
+gap: 10px;
+
+width: 224px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* My agents */
+
+margin: 0 auto;
+width: 67px;
+height: 20px;
+
+/* Text2 (14px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Component 12 */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.43%;
+right: 14.17%;
+top: 10.42%;
+bottom: 14.17%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147226557 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 224px;
+height: 128px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 🔴 [DEPRECATED] List item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+
+width: 224px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Component 9 */
+
+width: 28px;
+height: 28px;
+
+background: linear-gradient(164.83deg, #CCF9FF 10.67%, #4D4DFF 100.66%);
+box-shadow: -0.561279px 0.374186px 5.6128px rgba(31, 132, 132, 0.1);
+backdrop-filter: blur(0.701599px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24.77px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 2147203593 */
+
+position: absolute;
+visibility: hidden;
+width: 28.55px;
+height: 36.68px;
+left: 0px;
+top: 0.81px;
+
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 28.55px;
+height: 36.68px;
+left: 0px;
+top: 0.81px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Rectangle 1000001824 */
+
+position: absolute;
+width: 28.54px;
+height: 28.6px;
+left: 0.03px;
+top: -0.3px;
+
+background: #D9D9D9;
+border-radius: 3.9131px;
+
+
+/* Rectangle 1000001825 */
+
+position: absolute;
+width: 28.54px;
+height: 28.6px;
+left: 0.03px;
+top: -0.3px;
+
+background: #FFE100;
+border-radius: 3.9131px;
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 45.36px;
+height: 58.28px;
+left: -7.44px;
+top: -6.02px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 172px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Text */
+
+width: 172px;
+height: 16px;
+
+/* Text3 (12px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 172px;
+height: 16px;
+
+/* Text3 (12px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label
+
+<p><span style="white-space: pre-wrap;">➡️ A label indicates the status of an item. It is not clickable.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Label will always appear in context next to the item it classifies.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךשנקך</span></p>
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+display: none;
+width: 50px;
+height: 24px;
+
+border: 1px solid #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 🔴 [DEPRECATED] List item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+isolation: isolate;
+
+width: 224px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Component 9 */
+
+width: 28px;
+height: 28px;
+
+background: linear-gradient(164.83deg, #CCF9FF 10.67%, #4D4DFF 100.66%);
+box-shadow: -0.549586px 0.366391px 5.49586px rgba(31, 132, 132, 0.1);
+backdrop-filter: blur(0.686983px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 34.67px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group 2147203593 */
+
+position: absolute;
+width: 27.95px;
+height: 35.91px;
+left: 0px;
+top: 1.38px;
+
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 27.95px;
+height: 35.91px;
+left: 0px;
+top: 1.38px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Rectangle 1000001824 */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+background: #D9D9D9;
+border-radius: 3.83158px;
+
+
+/* Rectangle 1000001825 */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+background: #FFE100;
+border-radius: 3.83158px;
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 44.42px;
+height: 57.06px;
+left: -7.28px;
+top: -5.31px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Component 9/tiny agent avatar/Matthew RSVP */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(25.78deg, #FFFFFF -10.87%, #00C2FD 105.17%), conic-gradient(from 26.86deg at 18.35% 89.98%, #9DFF00 -43.38deg, #00D0FF 16.54deg, #00EEFF 61.04deg, #00CA72 294.95deg, #9DFF00 316.62deg, #00D0FF 376.54deg), linear-gradient(31.47deg, #FF81E4 -10.13%, #FFACFE 5.34%, #FF7E2E 67.32%, #FFD633 84.07%), linear-gradient(180deg, #000000 -22.87%, #00FFEE 121.93%);
+box-shadow: -0.551855px 0.367903px 5.51855px rgba(31, 132, 132, 0.1);
+backdrop-filter: blur(0.689819px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 4.66667px;
+
+
+/* Group 2147203645 */
+
+position: absolute;
+visibility: hidden;
+width: 59.43px;
+height: 38.54px;
+left: -21.43px;
+top: -1.96px;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 18.11px;
+height: 30.74px;
+left: 15.03px;
+top: 3.13px;
+
+border: 0.246379px solid #FFFFFF;
+box-shadow: 0px 0.140788px 0.366049px rgba(255, 255, 255, 0.25);
+border-radius: 1.05591px;
+transform: matrix(0.98, 0.17, -0.17, 0.99, 0, 0);
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 18.11px;
+height: 30.74px;
+left: 13.29px;
+top: -1.96px;
+
+border: 0.246379px solid #FFFFFF;
+box-shadow: 0px 0.140788px 0.366049px rgba(255, 255, 255, 0.25);
+border-radius: 1.05591px;
+transform: matrix(0.98, 0.17, -0.17, 0.99, 0, 0);
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 18.08px;
+height: 30.78px;
+left: -21.43px;
+top: 7px;
+
+border: 0.246379px solid #FFFFFF;
+box-shadow: 0px 0.140788px 0.366049px rgba(255, 255, 255, 0.25);
+border-radius: 1.05591px;
+transform: matrix(0.2, -0.98, 0.98, 0.21, 0, 0);
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 18.08px;
+height: 30.78px;
+left: -18.34px;
+top: 2.69px;
+
+border: 0.246379px solid #FFFFFF;
+box-shadow: 0px 0.140788px 0.366049px rgba(255, 255, 255, 0.25);
+border-radius: 1.05591px;
+transform: matrix(0.2, -0.98, 0.98, 0.21, 0, 0);
+
+
+/* Ellipse 17648 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 15.01px;
+height: 14.8px;
+left: 5.96px;
+top: 12.53px;
+
+border: 0.1922px solid #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Ellipse 17649 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 23.35px;
+height: 23.03px;
+left: 1.71px;
+top: 8.42px;
+
+border: 0.1922px solid #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Gemini_Generated_Image_8ns32j8ns32j8ns3 2 */
+
+position: absolute;
+width: 34px;
+height: 41.03px;
+left: -3.73px;
+top: 0px;
+
+background: url(bg_removal [Background removed]);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Mask group */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+
+
+/* Rectangle 1000001824 */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+background: #D9D9D9;
+border-radius: 3.83158px;
+
+
+/* Rectangle 1000001825 */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+background: #1AD5FF;
+border-radius: 3.83158px;
+
+
+/* enhanced_image (6) 2 */
+
+position: absolute;
+width: 41.48px;
+height: 47.1px;
+left: -9.4px;
+top: -2.66px;
+
+background: url(bg_removal [Background removed]);
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 172px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Text */
+
+width: 172px;
+height: 16px;
+
+/* Text3 (12px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 172px;
+height: 16px;
+
+/* Text3 (12px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label
+
+<p><span style="white-space: pre-wrap;">➡️ A label indicates the status of an item. It is not clickable.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Label will always appear in context next to the item it classifies.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךשנקך</span></p>
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+display: none;
+width: 50px;
+height: 24px;
+
+border: 1px solid #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Ellipse 17553 */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 30px;
+top: 24px;
+
+background: #CCD6DE;
+border: 1.14286px solid #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* 🔴 [DEPRECATED] List item */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px;
+gap: 8px;
+isolation: isolate;
+
+width: 224px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Component 9 */
+
+width: 28px;
+height: 28px;
+
+background: linear-gradient(164.83deg, #CCF9FF 10.67%, #4D4DFF 100.66%);
+box-shadow: -0.549586px 0.366391px 5.49586px rgba(31, 132, 132, 0.1);
+backdrop-filter: blur(0.686983px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 34.67px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Group 2147203593 */
+
+position: absolute;
+width: 27.95px;
+height: 35.91px;
+left: 0px;
+top: 1.38px;
+
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 27.95px;
+height: 35.91px;
+left: 0px;
+top: 1.38px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Rectangle 1000001824 */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+background: #D9D9D9;
+border-radius: 3.83158px;
+
+
+/* Rectangle 1000001825 */
+
+position: absolute;
+width: 27.94px;
+height: 28px;
+left: 0.03px;
+top: 0.29px;
+
+background: #FFE100;
+border-radius: 3.83158px;
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 44.42px;
+height: 57.06px;
+left: -7.28px;
+top: -5.31px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Component 9/tiny agent avatar/Amanda */
+
+position: absolute;
+visibility: hidden;
+width: 28.58px;
+height: 28.58px;
+left: -0.29px;
+top: -0.58px;
+
+background: linear-gradient(201.68deg, #00CA72 6.71%, #FFFFFF 87.99%);
+border-radius: 4.76389px;
+
+
+/* large agent avatar */
+
+position: absolute;
+width: 33.59px;
+height: 42.5px;
+left: -2.92px;
+top: -1.75px;
+
+background: linear-gradient(164.83deg, #CCF9FF 10.67%, #4D4DFF 100.66%);
+box-shadow: -0.833493px 0.555662px 8.33493px rgba(31, 132, 132, 0.1);
+backdrop-filter: blur(1.04187px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 6.47604px;
+
+
+/* Group 2147203593 */
+
+position: absolute;
+visibility: hidden;
+width: 42.4px;
+height: 54.46px;
+left: -4.45px;
+top: 2.08px;
+
+
+
+/* hilaeiny_httpss.mj.run5opD_vEyTos_httpss.mj.runW2qmAIarcJg_ht_ac3e5173-315e-4b37-88be-c2ffd031d056_0 */
+
+position: absolute;
+width: 42.4px;
+height: 54.46px;
+left: -4.45px;
+top: 2.08px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* 3 */
+
+position: absolute;
+visibility: hidden;
+width: 45.47px;
+height: 42.5px;
+left: -6.04px;
+top: 0px;
+
+
+
+/* Mask group */
+
+position: absolute;
+width: 33.52px;
+height: 42.5px;
+left: 0.04px;
+top: 0px;
+
+
+
+/* Rectangle 1000001822 */
+
+position: absolute;
+width: 33.52px;
+height: 42.5px;
+left: 0.04px;
+top: 0px;
+
+background: #D9D9D9;
+border-radius: 4.55847px;
+
+
+/* Rectangle 1000001823 */
+
+position: absolute;
+width: 33.52px;
+height: 42.5px;
+left: 0.04px;
+top: 0px;
+
+background: #FFE100;
+border-radius: 4.55847px;
+
+
+/* enhanced_image (4) 1 */
+
+position: absolute;
+width: 52.87px;
+height: 60.04px;
+left: -9.64px;
+top: 0px;
+
+background: url(bg_removal [Background removed]);
+
+
+/* Mask group */
+
+position: absolute;
+width: 33.52px;
+height: 42.5px;
+left: 0.04px;
+top: 0px;
+
+
+
+/* Rectangle 1000001822 */
+
+position: absolute;
+width: 33.52px;
+height: 42.5px;
+left: 0.04px;
+top: 0px;
+
+background: #D9D9D9;
+border-radius: 4.55847px;
+
+
+/* Rectangle 1000001823 */
+
+position: absolute;
+width: 33.52px;
+height: 42.5px;
+left: 0.04px;
+top: 0px;
+
+background: #9593FF;
+border-radius: 4.55847px;
+
+
+/* Gemini_Generated_Image_qfm0reqfm0reqfm0 3 */
+
+position: absolute;
+width: 67.21px;
+height: 81.11px;
+left: -15.95px;
+top: -8.28px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Left Side */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 172px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* Text */
+
+width: 172px;
+height: 16px;
+
+/* Text3 (12px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 172px;
+height: 16px;
+
+/* Text3 (12px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label
+
+<p><span style="white-space: pre-wrap;">➡️ A label indicates the status of an item. It is not clickable.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Label will always appear in context next to the item it classifies.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךשנקך</span></p>
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+display: none;
+width: 50px;
+height: 24px;
+
+border: 1px solid #0073EA;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Agent with indicator */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 30px;
+top: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Ellipse 17553 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #00C875;
+border: 1.14286px solid #FFFFFF;
+
+
+/* Frame 2147238985 */
+
+width: 224px;
+height: 72px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* bottom */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 224px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Lib */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px 4px;
+gap: 8px;
+
+display: none;
+width: 224px;
+height: 88px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225932 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+margin: 0 auto;
+width: 64px;
+height: 20px;
+
+/* Text2 (14px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225927 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* image 1 */
+
+width: 52px;
+height: 52px;
+
+background: url(image.png);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+width: 52px;
+height: 52px;
+
+background: url(image.png);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 3 */
+
+width: 52px;
+height: 52px;
+
+background: url(Christmas  greeting snow);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Feedback button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Low emphasis button
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+width: 145px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Platform / Knowledge
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Knowledge</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Knowledge</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Base</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>KB</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Knowledge } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 15%;
+right: 15%;
+top: 10%;
+bottom: 10%;
+
+background: #676879;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Title */
+
+width: 101px;
+height: 20px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* bottom */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 224px;
+height: 32px;
+left: 0px;
+top: 40px;
+
+
+
+/* Lib */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 8px 4px;
+gap: 8px;
+
+display: none;
+width: 224px;
+height: 88px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147225932 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+margin: 0 auto;
+width: 64px;
+height: 20px;
+
+/* Text2 (14px)/Medium */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 24px;
+height: 24px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2147225927 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 208px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* image 1 */
+
+width: 52px;
+height: 52px;
+
+background: url(image.png);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 2 */
+
+width: 52px;
+height: 52px;
+
+background: url(image.png);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 3 */
+
+width: 52px;
+height: 52px;
+
+background: url(Christmas  greeting snow);
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Feedback button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Low emphasis button
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+width: 135px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Platform / Feedback
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Feedback</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Feedback</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { Feedback } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 10%;
+right: 10%;
+top: 10%;
+bottom: 10%;
+
+background: #676879;
+
+
+/* Title */
+
+width: 91px;
+height: 20px;
+
+/* Text2 (14px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
