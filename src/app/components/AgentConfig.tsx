@@ -566,7 +566,7 @@ export function AgentConfig() {
               {/* Main Content */}
               <div
                 ref={contentRef}
-                className="backdrop-blur-[12px] bg-white flex-[1_0_0] min-h-px min-w-px relative rounded-tl-[16px] rounded-tr-[16px] w-full"
+                className="backdrop-blur-[12px] bg-white flex-1 min-h-0 min-w-px relative rounded-tl-[16px] rounded-tr-[16px] w-full"
               >
                 {/* Colored background container (visual only, no children) */}
                 <div
@@ -725,7 +725,7 @@ export function AgentConfig() {
 
                     {/* Avatar Grid */}
                     <div
-                      className="relative shrink-0 w-full flex-1 min-h-0 p-[6px] -m-[6px]"
+                      className="relative w-full flex-1 min-h-0 p-[6px] -m-[6px] overflow-hidden"
                       style={{
                         maskImage: "linear-gradient(to bottom, black 0%, black 60%, transparent 100%)",
                         WebkitMaskImage: "linear-gradient(to bottom, black 0%, black 60%, transparent 100%)",
