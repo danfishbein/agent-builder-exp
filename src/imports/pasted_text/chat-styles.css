@@ -1,0 +1,1612 @@
+/* E2E */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 32px;
+gap: 10px;
+
+position: relative;
+width: 1440px;
+height: 860px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), rgba(249, 249, 249, 0.5);
+
+
+/* Frame 2147203928 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 16px 16px 0px;
+gap: 16px;
+
+width: 1376px;
+height: 828px;
+
+background: #F3F4F8;
+/* Shadow/Small */
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.200691);
+border-radius: 16px 16px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 0px 0px 8px;
+gap: 814px;
+
+width: 1344px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147239567 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 355px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147239508 */
+
+box-sizing: border-box;
+
+width: 32px;
+height: 32px;
+
+background: #FFFFFF;
+border: 1px solid #D0D4E4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 58.89px;
+height: 87.38px;
+left: calc(50% - 58.89px/2 + 0.44px);
+bottom: -55.3px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Elena, Feedback Intelligence expert */
+
+width: 315px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon Button
+
+<p><span style="white-space: pre-wrap;">➡️ Icon button is a square button contains only icon with no visible text labels used mostly in control bars. needs to have tooltip with label</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ןבםמ נואאםמ</span></p>
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 32px;
+height: 32px;
+
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon / Basic / Close Medium
+
+<p><b><strong style="white-space: pre-wrap;">Use for:</strong></b><span style="white-space: pre-wrap;"> Close Medium</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Category:</strong></b><span style="white-space: pre-wrap;"> Outlined</span><br><b><strong style="white-space: pre-wrap;">Tags:</strong></b><span style="white-space: pre-wrap;"> </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Vibe</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Outline</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Close</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>X</span></code><span style="white-space: pre-wrap;">, </span><code spellcheck="false" style="white-space: pre-wrap;"><span>Cancel</span></code></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Import for dev:</strong></b><span style="white-space: pre-wrap;"> </span><br><i><em style="white-space: pre-wrap;">import { CloseMedium } from "@mondaydotcomorg/icons"</em></i></p><p><br></p>
+*/
+
+width: 20px;
+height: 20px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Union */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 20%;
+bottom: 20%;
+
+background: #323338;
+
+
+/* Loader
+
+<p><span style="white-space: pre-wrap;">Circle loading indication, a general non specific loader, used mostly in the Ui components to indicate loading state but can appear in the layout loading also.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">ךםשגקר</span></p>
+*/
+
+display: none;
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Chat */
+
+width: 1344px;
+height: 764px;
+
+background: #FFFFFF;
+backdrop-filter: blur(12px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 16px 16px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Frame 2147239717 */
+
+position: absolute;
+width: 730px;
+height: 715px;
+left: 312px;
+top: 49px;
+
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 1031.01px;
+height: 1529.88px;
+left: calc(50% - 1031.01px/2 - 5.2px);
+bottom: -923.19px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Rectangle 1000001922 */
+
+position: absolute;
+width: 481px;
+height: 48px;
+left: calc(50% - 481px/2 + 5.5px);
+top: 115px;
+
+border-radius: 7px;
+
+
+/* Frame 2147239706 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 31px;
+
+position: absolute;
+width: 280px;
+height: 439px;
+right: 992px;
+top: 127px;
+
+
+
+/* Frame 2147239647 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+isolation: isolate;
+
+width: 280px;
+height: 439px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 1000001916 */
+
+position: absolute;
+left: -16px;
+right: -14px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(180deg, #FFFFFF 73.57%, rgba(255, 255, 255, 0.33) 81.5%, rgba(255, 255, 255, 0) 100%);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239680 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 4px;
+gap: 10px;
+
+width: 280px;
+height: 23px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Choose your hero */
+
+width: 272px;
+height: 23px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 143%;
+/* identical to box height, or 23px */
+letter-spacing: 0.01em;
+
+color: rgba(50, 51, 56, 0.38);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 2147239639 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 8px;
+isolation: isolate;
+
+width: 280px;
+height: 440px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 2147239700 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Frame 2147239701 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 3px;
+gap: 10px;
+
+position: absolute;
+left: -3.25px;
+right: -2.75px;
+top: -3.5px;
+bottom: -2.5px;
+
+border: 1.5px solid #000000;
+border-radius: 14px;
+
+
+/* Frame 2147239637 */
+
+box-sizing: border-box;
+
+width: 88px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 115px;
+height: 175px;
+left: calc(50% - 115px/2 - 0.5px);
+top: 7px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: -0.25px;
+right: 0.25px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239638 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 92px;
+height: 123px;
+left: calc(50% - 92px/2 - 0.5px);
+top: 10px;
+
+background: url(23123123.png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239639 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+z-index: 2;
+
+
+/* image 685 */
+
+position: absolute;
+width: 87px;
+height: 115px;
+left: calc(50% - 87px/2 - 5.25px);
+top: 8px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.25px;
+right: -0.25px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239640 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+z-index: 3;
+
+
+/* image 685 */
+
+position: absolute;
+width: 98px;
+height: 150px;
+left: calc(50% - 98px/2 - 0.5px);
+top: 5px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239643 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 1;
+z-index: 4;
+
+
+/* image 685 */
+
+position: absolute;
+width: 127px;
+height: 169px;
+left: calc(50% - 127px/2 - 0.5px);
+top: 19px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: -0.25px;
+right: 0.25px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: -0.25px;
+right: 192.25px;
+top: 0px;
+bottom: 336px;
+
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 2147239645 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 1;
+z-index: 6;
+
+
+/* image 685 */
+
+position: absolute;
+width: 102px;
+height: 148px;
+left: calc(50% - 102px/2);
+top: 6px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239646 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 1;
+z-index: 7;
+
+
+/* image 685 */
+
+position: absolute;
+width: 92px;
+height: 130px;
+left: calc(50% - 92px/2 - 0.75px);
+top: 6px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.25px;
+right: -0.25px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239642 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 1;
+z-index: 8;
+
+
+/* image 695 */
+
+position: absolute;
+width: 145px;
+height: 164px;
+left: calc(50% - 145px/2 + 0.5px);
+bottom: -72px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239644 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 1;
+z-index: 9;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 96px;
+height: 175px;
+left: calc(50% - 96px/2 - 5.25px);
+top: calc(50% - 175px/2 + 28.5px);
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239647 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 1;
+z-index: 10;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 99px;
+height: 176px;
+left: calc(50% - 99px/2);
+top: calc(50% - 176px/2 + 28px);
+
+background: url(bg_removal [Background removed].png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 2147239648 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+flex-grow: 1;
+z-index: 11;
+
+
+/* NB Enhanced Image */
+
+position: absolute;
+width: 98px;
+height: 175px;
+left: calc(50% - 98px/2 + 0.25px);
+top: calc(50% - 175px/2 + 27.5px);
+
+background: url(bg_removal [Background removed].png);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 2147239701 */
+
+width: 88px;
+min-width: 66px;
+height: 104px;
+
+background: #F6F7FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 12;
+flex-grow: 1;
+z-index: 12;
+
+
+/* image 685 */
+
+position: absolute;
+width: 127px;
+height: 169px;
+left: calc(50% - 127px/2 - 0.5px);
+top: 19px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: -0.25px;
+right: 0.25px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 16px;
+
+
+/* Frame 2147239683 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 248px;
+height: 255px;
+left: 1024px;
+top: 127px;
+
+
+
+/* Frame 2147239681 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 4px;
+gap: 10px;
+
+width: 248px;
+height: 23px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Background color */
+
+width: 240px;
+height: 23px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 143%;
+/* identical to box height, or 23px */
+letter-spacing: 0.01em;
+
+color: rgba(50, 51, 56, 0.38);
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 2147239665 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 248px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147239659 */
+
+box-sizing: border-box;
+
+width: 24px;
+height: 24px;
+
+background: #03E8F9;
+border: 1px solid #000000;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: -50%;
+bottom: -50%;
+
+background: linear-gradient(270deg, #F1C238 0%, rgba(241, 194, 56, 0) 100%);
+
+
+/* Frame 2147239657 */
+
+width: 24px;
+height: 24px;
+
+background: #F960C6;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #FDA53B 0%, rgba(253, 165, 59, 0) 100%);
+
+
+/* Frame 2147239656 */
+
+width: 24px;
+height: 24px;
+
+background: #38CAD1;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #F2C431 0%, rgba(242, 196, 49, 0) 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 2147239660 */
+
+width: 24px;
+height: 24px;
+
+background: #0291FB;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #FD77CB 0%, rgba(253, 119, 203, 0) 100%);
+
+
+/* Frame 2147239658 */
+
+width: 24px;
+height: 24px;
+
+background: #FDB024;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #6DA3DE 0%, rgba(109, 163, 222, 0) 100%);
+
+
+/* Frame 2147239661 */
+
+width: 24px;
+height: 24px;
+
+background: #FEFEFE;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #7DB1E6 0%, rgba(125, 177, 230, 0) 100%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 2147239662 */
+
+width: 24px;
+height: 24px;
+
+background: #38CAD1;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #FD77CB 0%, rgba(253, 119, 203, 0) 100%);
+
+
+/* Frame 2147239663 */
+
+width: 24px;
+height: 24px;
+
+background: #F960C6;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Rectangle 1000001917 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(270deg, #DB9F03 0%, rgba(219, 159, 3, 0) 100%);
+
+
+/* Frame 2147239664 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: center;
+align-content: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 248px;
+height: 216px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2147239702 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+border-radius: 60px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147239703 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 3px;
+gap: 10px;
+
+position: absolute;
+width: 62px;
+height: 110px;
+left: calc(50% - 62px/2);
+top: calc(50% - 110px/2);
+
+border: 1.5px solid #000000;
+border-radius: 14px;
+
+
+/* Frame 2147239659 */
+
+box-sizing: border-box;
+
+width: 56px;
+height: 104px;
+
+background: #FFFFFF;
+border: 1px solid #D0D4E4;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2147239703 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #F1C238;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 2147239657 */
+
+box-sizing: border-box;
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #03E8F9;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Frame 2147239664 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #F960C6;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Frame 2147239660 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #0291FB;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 1;
+
+
+/* Frame 2147239704 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #313131;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 1;
+
+
+/* Frame 2147239662 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #00BA5F;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 1;
+
+
+/* Frame 2147239663 */
+
+width: 56px;
+min-width: 50px;
+height: 104px;
+
+background: #9450FD;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 1;
+
+
+/* Frame 2147239716 */
+
+position: absolute;
+width: 138px;
+height: 40px;
+right: 72px;
+top: 643px;
+
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️ High emphasis primary button
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 16px;
+gap: 8px;
+
+position: absolute;
+width: 138px;
+height: 40px;
+min-height: 40px;
+max-height: 40px;
+left: calc(50% - 138px/2);
+bottom: 0px;
+
+background: #333333;
+border-radius: 8px;
+
+
+/* Title */
+
+width: 106px;
+height: 22px;
+
+/* Text1 (16px)/Normal */
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 138px;
+height: 40px;
+left: 0px;
+top: 0px;
+
+border-radius: 6px;
+
+
+/* Frame 2147239710 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 304px;
+height: 92px;
+left: calc(50% - 304px/2 + 5px);
+top: 36px;
+
+border-radius: 0px;
+
+
+/* Frame 2147239715 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 10px;
+isolation: isolate;
+
+width: 146px;
+height: 57px;
+
+border: 1px solid #ECEFF8;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Elena */
+
+width: 126px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 100%;
+/* or 48px */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -1.47531px;
+
+color: #323338;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 2147239642 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 8px;
+gap: 10px;
+isolation: isolate;
+
+width: 227px;
+height: 31px;
+
+border: 1px solid #ECEFF8;
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Feedback Intelligence expert */
+
+width: 211px;
+height: 23px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 143%;
+/* identical to box height, or 23px */
+letter-spacing: 0.01em;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0.5px;
+right: -0.5px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;

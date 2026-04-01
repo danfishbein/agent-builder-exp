@@ -1,0 +1,136 @@
+/* Frame 2147240349 */
+
+position: relative;
+width: 62px;
+height: 32px;
+left: 2334px;
+top: 1837px;
+
+
+
+/* Profile button */
+
+position: absolute;
+width: 62px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Company Logo Container */
+
+position: absolute;
+left: 0%;
+right: 25.81%;
+top: 0%;
+bottom: 0%;
+
+border-radius: 4px 0px 0px 4px;
+
+
+/* Background */
+
+position: absolute;
+width: 46px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+opacity: 0.5;
+
+
+/* Product Logo / Small
+
+<p><strong style="white-space: pre-wrap;">Product logos/small</strong></p>
+*/
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 6px;
+top: 6px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 15.62%;
+right: 54.13%;
+top: 28.34%;
+bottom: 30.88%;
+
+background: #FB275D;
+
+
+/* Shape */
+
+position: absolute;
+left: 40.23%;
+right: 29.47%;
+top: 28.25%;
+bottom: 30.88%;
+
+background: #FFCB00;
+
+
+/* Oval */
+
+position: absolute;
+left: 64.81%;
+right: 15.62%;
+top: 49.03%;
+bottom: 30.88%;
+
+background: #00C875;
+
+
+/* Avatar
+
+<p><span style="white-space: pre-wrap;">Avatar is a graphical representation of a person through a profile picture, image, icon, or set of initials.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">שהשאשר</strong></b></p>
+
+➡️ Use to indicate the status of a user.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px/2 + 15px);
+top: calc(50% - 32px/2);
+
+border-radius: 100px;
+
+
+/* Avatar Container */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Border */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(image.png);
+border: 1px solid #FFFFFF;

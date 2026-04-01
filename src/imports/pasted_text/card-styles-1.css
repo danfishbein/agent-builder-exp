@@ -1,0 +1,194 @@
+/* for you custom */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 32px 8px 8px;
+gap: 16px;
+isolation: isolate;
+
+position: relative;
+width: 317px;
+min-width: 310px;
+height: 118.86px;
+
+border: 1px solid rgba(18, 18, 18, 0.12);
+border-radius: 20px;
+
+
+/* Hover element (new) */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: -0.14px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 2147239684 */
+
+width: 72px;
+height: 102.86px;
+
+background: #B584FF;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 685 */
+
+position: absolute;
+width: 117.99px;
+height: 156.3px;
+left: -31.48px;
+top: 7.45px;
+
+background: url(bg_removal [Background removed].png);
+
+
+/* Frame 2147239685 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 8px 0px;
+gap: 10px;
+
+width: 189px;
+height: 102.86px;
+
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+z-index: 2;
+
+
+/* Frame 2147239686 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 189px;
+height: 77px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Emma */
+
+width: 189px;
+height: 25px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 155%;
+/* identical to box height, or 25px */
+display: flex;
+align-items: flex-end;
+
+color: #1C1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Heading */
+
+width: 189px;
+height: 44px;
+
+font-family: 'Figtree';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 155%;
+/* or 22px */
+display: flex;
+align-items: flex-end;
+
+color: #676879;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button
+
+<p><span style="white-space: pre-wrap;">➡️ Buttons allow users take actions with a single click. With clear indications that they triggering an action, buttons should be easy to find among other UI.</span></p><p><br></p><p><span style="white-space: pre-wrap;">➡️ Use only one primary button, and any remaining calls to action should be represented as lower emphasis buttons.</span></p><p><br></p><p><b><strong style="white-space: pre-wrap;">Hebrew keyboard mistake:</strong></b><br><span style="white-space: pre-wrap;">נואאםמ</span></p>
+
+➡️Medium emphasis button
+*/
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 8px;
+gap: 8px;
+
+margin: 0 auto;
+display: none;
+width: 123px;
+height: 32px;
+min-height: 32px;
+max-height: 32px;
+
+border: 1px solid #C3C6D4;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
